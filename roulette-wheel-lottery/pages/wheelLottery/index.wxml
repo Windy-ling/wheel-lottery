@@ -1,0 +1,7 @@
+<view class="container">
+  <view class="wheel-container">
+    <canvas type="2d" id="wheelCanvas" class="wheel-canvas" ></canvas>
+    <view class="pointer"></view>
+  </view>
+  <button class="start-btn" bindtap="startLottery">开始抽奖</button>
+</view>
